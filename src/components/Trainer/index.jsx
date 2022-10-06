@@ -29,7 +29,7 @@ function Trainer() {
     dispatch(loadTrainers())
   }, [dispatch])
 
-
+//  ====================================================== //
     return (
       <div className={styles.main}>
         <div className={styles.container}>
